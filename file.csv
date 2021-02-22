@@ -1,0 +1,8 @@
+AN;true;true;false;false
+OR;true;false;true;false;false;true
+AND;true;false;true;false;false;true
+XOR;true;true;false;false
+OR;true;true;false;false
+AND;true;false;false;true;true
+AND;true;asf;false;false
+OR;;;fas
